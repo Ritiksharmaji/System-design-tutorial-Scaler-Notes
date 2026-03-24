@@ -1,0 +1,7 @@
+
+
+leacture-2: LLD: OOP-2: Access Modifiers and Constructors
+
+OOPs:- here is four pilleas of OOPs 
+	a) 1 principal of OOPs :> principal means core idea of OOPs why oops should exits
+	b) 3 pillars of OOps :> how to bring OOps into programming 
